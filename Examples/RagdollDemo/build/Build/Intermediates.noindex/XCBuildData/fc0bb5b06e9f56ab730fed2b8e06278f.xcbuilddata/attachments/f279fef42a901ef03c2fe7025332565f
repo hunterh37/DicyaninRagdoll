@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemo-primary.dia",
+    "emit-module-dependencies" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemo-primary-emit-module.dia",
+    "pch" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemo-primary.swiftdeps"
+  },
+  "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/RagdollDemo/RagdollDemoApp.swift" : {
+    "const-values" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.swiftconstvalues",
+    "dependencies" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.d",
+    "diagnostics" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.dia",
+    "index-unit-output-path" : "/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.o",
+    "llvm-bc" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.bc",
+    "object" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.o",
+    "swift-dependencies" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp.swiftdeps",
+    "swiftmodule" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/RagdollDemo.build/Debug-xrsimulator/RagdollDemo.build/Objects-normal/arm64/RagdollDemoApp~partial.swiftmodule"
+  }
+}

@@ -9,6 +9,8 @@ mesh's skeleton. While **kinematic** they ride the playing animation; on `activa
 rotation, writing the whole pose into `model.jointTransforms` in one batch per frame. The result
 is a real ragdoll that takes over a live, animated character on death.
 
+![DicyaninRagdoll tuning lab running in the visionOS Simulator](Docs/screenshot.png)
+
 A SwiftUI **debug/tuning lab** (`RagdollDebugView`) ships with a bundled rigged character so you
 can DROP, smash, fire per-bone test "gunshots", live-tune every knob, and dump the dialed-in
 values straight back into the defaults.

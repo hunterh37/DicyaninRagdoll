@@ -1,0 +1,4 @@
+module DicyaninRagdoll {
+header "DicyaninRagdoll-Swift.h"
+export *
+}

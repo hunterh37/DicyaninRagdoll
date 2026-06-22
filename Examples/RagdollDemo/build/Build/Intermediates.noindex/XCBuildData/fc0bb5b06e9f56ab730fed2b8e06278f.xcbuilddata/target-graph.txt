@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'RagdollDemo' in project 'RagdollDemo'
+➜ Explicit dependency on target 'DicyaninRagdoll' in project 'DicyaninRagdoll'
+Target 'DicyaninRagdoll' in project 'DicyaninRagdoll'
+➜ Explicit dependency on target 'DicyaninRagdoll' in project 'DicyaninRagdoll'
+➜ Explicit dependency on target 'DicyaninRagdoll_DicyaninRagdoll' in project 'DicyaninRagdoll'
+Target 'DicyaninRagdoll' in project 'DicyaninRagdoll'
+➜ Explicit dependency on target 'DicyaninRagdoll_DicyaninRagdoll' in project 'DicyaninRagdoll'
+Target 'DicyaninRagdoll_DicyaninRagdoll' in project 'DicyaninRagdoll' (no dependencies)

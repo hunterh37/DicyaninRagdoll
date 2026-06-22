@@ -1,0 +1,72 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "64394dfa1bdf963be6fdb9b21bd459a90f6b459e2388388f68e5ad92e09147c3"
+    }
+  ],
+  "containerPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/RagdollDemo.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "xrsimulator",
+      "sdk" : "xrsimulator26.4",
+      "sdkVariant" : "xrsimulator",
+      "supportedArchitectures" : [
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Products",
+      "derivedDataPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build",
+      "indexDataStoreFolderPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/hunter/devdicyaninpackages/DicyaninRagdoll/Examples/RagdollDemo/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "RealityDevice14,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "26.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "RealityDevice14,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "33C8E6B2-A9F4-4FD9-B800-9FCA014EF42F",
+          "TARGET_DEVICE_MODEL" : "RealityDevice14,1",
+          "TARGET_DEVICE_OS_VERSION" : "26.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "xrsimulator",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.883 $(inherited)"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
