@@ -3,3 +3,6 @@
 /.swiftpm
 xcuserdata/
 *.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Example xcodegen derived
+Examples/RagdollDemo/RagdollDemo.xcodeproj/project.xcworkspace/

@@ -1,0 +1,29 @@
+name: RagdollDemo
+options:
+  bundleIdPrefix: com.dicyanin
+  deploymentTarget:
+    visionOS: "2.0"
+packages:
+  DicyaninRagdoll:
+    path: ../..
+targets:
+  RagdollDemo:
+    type: application
+    platform: visionOS
+    sources:
+      - RagdollDemo
+    info:
+      path: RagdollDemo/Info.plist
+      properties:
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationPreferredDefaultSceneSessionRole: UIWindowSceneSessionRoleApplication
+          UIApplicationSupportsMultipleScenes: true
+    dependencies:
+      - package: DicyaninRagdoll
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.dicyanin.RagdollDemo
+        GENERATE_INFOPLIST_FILE: false
+        SWIFT_VERSION: "6.0"
+        TARGETED_DEVICE_FAMILY: "7"
